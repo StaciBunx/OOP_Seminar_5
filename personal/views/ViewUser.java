@@ -57,6 +57,7 @@ public class ViewUser {
                 }
             } catch (Exception e) {
                 System.out.println(e.getMessage());
+                System.out.println("Вот оно!!");
             }
         }
 
